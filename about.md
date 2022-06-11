@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-# Kumar Shreshtha
+## About Me
 
-I am a Senior AI Research Engineer at [Therapanacea](https://www.therapanacea.eu/), where I lead projects on generative modelling, image segmentation and learning based image registration. Our pilot image segmentation project, [Annotate](https://www.therapanacea.eu/our-products/annotate/), includes over 150 neural networks and is trained on a dataset of 15k+ 3D medical images (both MRI and CT). I am also the creator and maintainer of a large file version control system (VCS) optimized for our huge neural network database.
+Hi, I am Kumar. I lead the core AI team at [Therapanacea](https://www.therapanacea.eu/), a med-tech startup in Paris. My work revolves around the development of our core-AI infrastructure and applied research in generative modelling, image registration and segmentation.
 
-Previously, I worked under the supervision of [Prof. Nikos Paragios](https://scholar.google.com/citations?user=ztx2zRKJIYwC&hl=en) for my graduate thesis on **a self-supervised method for synthetic CT generation from MRI** [patented]. The algorithm is the only available commerial solution of it's kind, with the capability to translate intra-organ variabilities and gas cavities from MRI to the generated synthetic CT.
+Previously, I worked under the supervision of [Prof. Nikos Paragios](https://scholar.google.com/citations?user=ztx2zRKJIYwC&hl=en) for my graduate thesis on **a self-supervised method for synthetic CT generation from MRI**.
+
+## What is The Latent Space?
+
+I am a computer scientist and biolist by training and yet somehow a machine learning researcher by trade. This meant that most of my knowledge in the domain came through scraping the web for quality free content. So this blog is an attempt to (hopefully) give something back to the society that has been so helpful to me. The name of the blog is owed to my particular interest in the field of representation learning, but I'll be talking about pretty much everything I find fascinating in machine learning, math, computer science and even medical physics.
