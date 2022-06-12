@@ -21,11 +21,11 @@
 title: The Latent Space
 email: thelatentspace@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Disentangling convoluted concepts in Machine Learning, Vision and Computer Science.
+  Disentangling convoluted concepts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thelatentspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  shreshth211
+github_username:  shoomz
 linkedin_username: kumarshreshtha
 # Build settings
 theme: minima
