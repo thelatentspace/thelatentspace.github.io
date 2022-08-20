@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## The Latent Space
-
-The name is owed to my particular interest in the field of representation learning, but I’ll be talking about pretty much everything I find fascinating in machine learning, math, computer science and perhaps even medical physics.
+The latent space is a pet-project where I want to share ideas in machine learning, math and computer science that excite me.
 
 ## Me
 
