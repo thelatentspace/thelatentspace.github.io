@@ -1,3 +1,3 @@
 # The Latent Space
 
-I write about machine learning, computer science and medical imaging.
+I write about machine learning and computer science.
